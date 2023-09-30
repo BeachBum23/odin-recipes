@@ -1,0 +1,1 @@
+Odin project to make recipes. Only HTML, no CSS or JS yet.
